@@ -1,0 +1,38 @@
+header {
+    background-color: #041f5b;
+    text-align: center;
+    border: solid rgba(128, 128, 128, 0.238);
+    color: white;
+    margin-bottom: 10px;
+}
+
+body {
+    background-color: #041f5b;
+
+}
+
+.first-pic {
+    position: relative;
+    top:-262px;
+}
+
+.second-pic {
+    position: relative;
+    top:-262px;
+}
+
+.third-pic {
+    position: relative;
+    top:-262px;
+}
+
+.fourth-pic {
+    position: relative;
+    top:-262px;
+}
+
+.fifth-pic {
+    position: relative;
+    top:-262px;
+}
+
